@@ -1,0 +1,30 @@
+﻿
+/*=======================================
+    GENERAL STYLES
+==================================================*/
+
+.text-center {
+    text-align:center;
+}
+
+.alg-right-pad {
+    float:right;
+    padding-right:20px;
+}
+
+
+.row {
+    margin-bottom:10px;
+}
+.btn {
+    margin-bottom:5px;
+}
+
+/*=======================================
+  FOOTER SECTION
+==================================================*/
+
+.end-box {
+    padding:25px;
+    
+}
